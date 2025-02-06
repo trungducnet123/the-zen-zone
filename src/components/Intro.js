@@ -10,9 +10,9 @@ class Intro extends Component {
         <img src={logo} className="App-logo" alt="The Zen Zone" />
         <div className="zen-zone-intro">
           <h1>Welcome to The Zen Zone.</h1>
-          <p>A minimalistic meditation area built by <a href="http://tholman.com" target="_blank" rel="noopener noreferrer">Tim Holman</a>, designed to calm you down via the power of small, captivating, mildly amusing and oddly satisfying activities. Feel the Zen!</p>
+          <p>Khu vực thiền tối giản, được thiết kế để giúp bạn bình tĩnh lại thông qua sức mạnh của những hoạt động nhỏ, hấp dẫn, hơi buồn cười và kỳ lạ là thỏa mãn. Cảm nhận sự Thiền!</p>
           <Link to="/games">
-            <button>Let's get started</button>
+            <button>Bắt đầu thôi nào!</button>
           </Link>
         </div>
       </header>
